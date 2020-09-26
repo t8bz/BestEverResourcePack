@@ -1,0 +1,8 @@
+{
+    "parent": "block/leaveb",
+    "textures": {
+        "all": "block/oak_leaves",
+	"bushyb":"block/oak_busht",
+	"bushyt":"block/oak_bushb"
+    }
+}

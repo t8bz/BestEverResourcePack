@@ -1,0 +1,8 @@
+{
+    "parent": "block/dangle1",
+    "textures": {
+        "all": "block/jungle_leaves",
+	"bushyt":"block/jungle_busht",
+	"bushyb":"block/jungle_bush_low"
+    }
+}
