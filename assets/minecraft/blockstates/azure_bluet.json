@@ -1,0 +1,5 @@
+{
+    "variants": { 
+      "":[{ "model": "block/azure_bluet","weight":1 },{ "model": "block/azure_bluet1","weight":2 }]
+    }
+}
