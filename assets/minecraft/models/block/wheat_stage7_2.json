@@ -1,0 +1,7 @@
+{
+    "parent": "block/full_wheat",
+    "textures": {
+        "crop": "block/wheat_stage7_2",
+        "cropy": "block/wheat_stage7_3"
+    }
+}
